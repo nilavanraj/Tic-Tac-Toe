@@ -1,6 +1,7 @@
 # Tic-Tac-Toe
 Folder React is the frontend script and index.js is node script.  
-![Screenshot (92)](https://user-images.githubusercontent.com/58332892/120105648-7b5ea000-c177-11eb-99ad-382c349dd62d.png)
+![Screenshot (94)](https://user-images.githubusercontent.com/58332892/120107296-30945680-c17e-11eb-8ab6-757c3fcfaf0e.png)
+
 
 Demo
 Pls checkout the demo
